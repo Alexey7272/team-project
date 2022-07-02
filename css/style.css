@@ -26,6 +26,19 @@ img {
 }
 
 
+
+/* prise */
+
+.list{
+	font-family: "Poppines";
+	font-style: normal;
+	font-weight: 600;
+	font-size: 30px;
+	line-height: 1.6;
+	text-transform: capitalize;
+	color: #263238;
+}
+
 /* Skills styles */
 .title-skills {
 	
@@ -111,3 +124,4 @@ img {
 .header-list-item:not(:last-child) {
 	margin-right: 50px;
 }
+
