@@ -24,3 +24,42 @@ img {
 	max-width: 100%;
 	height: auto;
 }
+
+
+/* Skills styles */
+.title-skills {
+	
+	font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 72px;
+    color: #000000;
+
+}
+.box-speaking {
+	width: 426px;
+	height: 947px;
+	background: #F5F5F5;
+    border-radius: 10px;
+}
+.box-writing {
+	width: 426px;
+	height: 579px;
+	background: #F5F5F5;
+    border-radius: 10px; 
+}
+.box-reading {
+	width: 426px;
+	height: 579px;
+	background: #F5F5F5;
+    border-radius: 10px; 
+
+}
+.box-listening {
+	width: 882px;
+	height: 338px;
+	background: #F5F5F5;
+    border-radius: 10px; 
+
+}
