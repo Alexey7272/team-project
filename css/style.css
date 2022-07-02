@@ -24,3 +24,22 @@ img {
 	max-width: 100%;
 	height: auto;
 }
+
+
+/* prise */
+
+.prise{
+	
+
+
+}
+
+.list{
+	font-family: "Poppines";
+	font-style: normal;
+	font-weight: 600;
+	font-size: 30px;
+	line-height: 1.6;
+	text-transform: capitalize;
+	color: #263238;
+}
