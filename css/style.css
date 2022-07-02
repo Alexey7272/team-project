@@ -95,6 +95,7 @@ img {
 	font-size: 64px;
 	line-height: 1.25;
 	color: #000000;
+	text-shadow: 0 0 10px rgba(0,0,0,0.5);;
 }
 
 .hero-subtitle {
@@ -119,6 +120,17 @@ img {
     color: #ffffff;
     cursor: pointer;
     border: none;
-	box-shadow: 0 0 10px rgba(0,0,0,1);
+	box-shadow: 0 4px 4px rgba(0,0,0,0.25);
+	transition: 0.5s;
 }
 
+.hero-btn:hover {
+	color: #ffffff;
+	background-color: #1f2224;
+}
+
+.bulb{
+	display: flex;
+	margin: 70px 0 0 38px;
+    max-width: 100%;
+}
