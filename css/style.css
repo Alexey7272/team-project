@@ -24,3 +24,52 @@ img {
 	max-width: 100%;
 	height: auto;
 }
+
+/* header */
+
+.header {
+	background-color: #FFFFFF;
+}
+
+.header-list {
+	display: flex;
+}
+
+.header-nav {
+	display: flex;
+	align-items: center;
+}
+
+.header-nav {
+	display: flex;
+	align-items: center;
+}
+
+.logo {
+	text-decoration: none;
+	font-family:'Poppins';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 36px;
+	line-height: 1.5;
+	color:#000000;
+	margin-right: 236px;
+}
+
+.span-web {
+	color: #939393
+}
+
+.header-link {
+	display: block;
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #263238;
+	
+}
+
+.header-list-item:not(:last-child) {
+	margin-right: 50px;
+}
