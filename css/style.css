@@ -40,7 +40,8 @@ img {
 }
 
 /* Skills styles */
-.title-skills {
+
+.skills--title {
 	
 	font-family: 'Poppins', sans-serif;
     font-style: normal;
@@ -48,33 +49,121 @@ img {
     font-size: 48px;
     line-height: 72px;
     color: #000000;
+	text-align: center;
+	margin-top: 180px;
+	margin-bottom: 60px;
 
 }
-.box-speaking {
+.skills--box-speaking {
 	width: 426px;
 	height: 947px;
 	background: #F5F5F5;
     border-radius: 10px;
 }
-.box-writing {
+.skills--box-writing {
 	width: 426px;
 	height: 579px;
 	background: #F5F5F5;
     border-radius: 10px; 
 }
-.box-reading {
+.skills--box-reading {
 	width: 426px;
 	height: 579px;
 	background: #F5F5F5;
     border-radius: 10px; 
 
 }
-.box-listening {
+.skills--box-listening {
 	width: 882px;
 	height: 338px;
 	background: #F5F5F5;
     border-radius: 10px; 
+	margin-bottom: 180px;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	
+
+	
+
+	
+
 }
+.skills--img-speaking {
+	
+	padding: 32px 18px 24px 18px;
+	
+
+}
+.skills--img-writing {
+	padding: 32px 18px 24px 18px;
+
+}
+.skills--img-reading {
+	padding: 32px 18px 24px 18px;
+}
+.skills--img-listening {
+	width: 408px;
+	height: 274px;
+	margin: 32px 18px 32px 104px;
+
+}
+.subtitle {
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 30px;
+	line-height: 45px;
+	color: #263238;
+	margin-left: 18px;
+	margin-bottom: 20px;
+
+}
+.text {
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 24px;
+	color: #8F95A5;
+	margin-left: 18px;
+	margin-right: 60px;
+	margin-bottom: 30px;
+
+}
+.btn {
+	width: 218px;
+	height: 60px;
+	background-color: #263238;
+	border-radius: 10px;
+}
+.skills-btn--text {
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 30px;
+	color: #FFFFFF;
+}
+
+.skills-btn {
+	margin-left: 18px;
+}
+.skills--box-place {
+	display: flex;
+	
+
+
+}
+.skills-text-box{
+	margin-top: 32px;
+}
+.box-position {
+	display: flex;
+	gap: 30px;
+	
+}
+
 
 /* header */
 
